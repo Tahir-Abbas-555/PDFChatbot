@@ -1,4 +1,4 @@
-# Mental Health Chatbot
+# PDF CHATBOT
 
 ## Mac OS or Linux
 
